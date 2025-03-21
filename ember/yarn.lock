@@ -1675,7 +1675,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@embroider/addon-shim@npm:^1.7.1":
+"@embroider/addon-shim@npm:^1.7.1, @embroider/addon-shim@npm:^1.8.5":
   version: 1.8.6
   resolution: "@embroider/addon-shim@npm:1.8.6"
   dependencies:
@@ -5077,7 +5077,7 @@ __metadata:
     ember-simple-auth: ^3.0.0
     ember-source: ~3.0.0
     ember-truth-helpers: ^2.0.0
-    ember-welcome-page: ^3.0.0
+    ember-welcome-page: ^7.0.2
     loader.js: ^4.2.3
     lodash-es: ^4.17.21
     mapbox-gl: ^1.13.0
@@ -6333,7 +6333,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-cli-htmlbars@npm:^2.0.1, ember-cli-htmlbars@npm:^2.0.3":
+"ember-cli-htmlbars@npm:^2.0.1":
   version: 2.0.5
   resolution: "ember-cli-htmlbars@npm:2.0.5"
   dependencies:
@@ -7086,14 +7086,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-welcome-page@npm:^3.0.0":
-  version: 3.2.0
-  resolution: "ember-welcome-page@npm:3.2.0"
+"ember-welcome-page@npm:^7.0.2":
+  version: 7.0.2
+  resolution: "ember-welcome-page@npm:7.0.2"
   dependencies:
-    broccoli-funnel: ^1.0.1
-    ember-cli-babel: ^6.6.0
-    ember-cli-htmlbars: ^2.0.3
-  checksum: f7b45c5177cb0d6febf4097bb104b8bfdf3054fc94e88d77a151a6c8c9a4b513f401f63019ba7a0aecea62b28ab62829dec5386c4d892ed7b7b383728c763cce
+    "@embroider/addon-shim": ^1.8.5
+  checksum: 332acdc39800ba2245309fa0cf02315855cf2be62daf659c3b8737afa83430f3102feb9c57d61425fb2fb4a418d8721d61e7e98511d5cbec3aefbd1b4e0885a3
   languageName: node
   linkType: hard
 

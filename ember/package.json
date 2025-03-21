@@ -54,7 +54,7 @@
     "ember-simple-auth": "^3.0.0",
     "ember-source": "~3.0.0",
     "ember-truth-helpers": "^2.0.0",
-    "ember-welcome-page": "^3.0.0",
+    "ember-welcome-page": "^7.0.2",
     "loader.js": "^4.2.3",
     "lodash-es": "^4.17.21",
     "mapbox-gl": "^1.13.0",
